@@ -1,0 +1,28 @@
+.container{
+  text-align: center;
+  margin: auto;
+}
+  body{
+  background-color: #5C527F;
+}
+h1{
+  font-size: 600%;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  color: #7FC8A9;
+}
+.player{
+  display: inline-block;
+  text-align: center;
+}
+.dice6{
+  width: 80%;
+}
+p{
+  font-size: 200%;
+  color: #7FC8A9;
+}
+footer{
+  text-align: center;
+  padding-top: 30px;
+}
